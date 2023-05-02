@@ -6,6 +6,7 @@ public class Main2 {
         obj.show();
         MoreArgsDemo.ChangeRef(obj);
         obj.show();
+        obj.show();
 
     }
 }
