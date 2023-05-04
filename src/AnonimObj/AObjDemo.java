@@ -17,6 +17,8 @@ public class AObjDemo {
             text += obj.nums[obj.nums.length - 1] + ". end";
             // Display message:
             JOptionPane.showMessageDialog(null,text);
+
+
         }
     }
 }
