@@ -16,7 +16,7 @@ public class Example2 {
 
         if (num1 <= 0 || num2 <= 0) {
             System.out.println("Both numbers must be positive");
-            return;
+            return; // return need for exit methode, if the entered number is negative
         }
         if (num1 % num2 == 0 || num2 % num1 == 0){
             System.out.println("true");
